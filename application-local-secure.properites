@@ -1,0 +1,3 @@
+# defaults for this docker image - vromero/activemq-artemis
+spring.artemis.user=artemis
+spring.artemis.password={cipher}5a1915d07fcdca3105649e8f99cdf0c04328255cf83cc0698f03f8a9b647f5f4
